@@ -2,6 +2,7 @@
 0.0.0.0 facebook.net
 0.0.0.0 www.facebook.com
 0.0.0.0 www.facebook.net
+0.0.0.0 m.facebook.com
 0.0.0.0 login.facebook.com
 0.0.0.0 developer.facebook.com
 0.0.0.0 static.ak.fbcdn.net
@@ -19,6 +20,7 @@
 0.0.0.0 connect.facebook.com
 0.0.0.0 connect.facebook.net
 0.0.0.0 fbcdn-profile-a.akamaihd.net
+0.0.0.0 fbstatic-a.akamaihd.net
 0.0.0.0 graph.facebook.com
 0.0.0.0 profile.ak.fbcdn.net
 0.0.0.0 channel.facebook.com
